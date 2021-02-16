@@ -19,7 +19,7 @@ The above commond line runs a compressing program called "gzip" on our file "ar1
 less ar1_2.fastq
 ```
 
-And you will see the inside the fasta format, there are millions of lines like this:
+And you will see inside the fasta format, there are millions of lines like this:
 
 ```
 @K00234:90:HTWVHBBXX:7:1101:1793:1719 1:N:0:CGATGT+CGCTTG
