@@ -44,15 +44,15 @@ Evry 4 lines compose a DNA sequence. The first line is the sequencing header, it
 
 ## Data qulity control
 
-
+xxx
 
 ## Alignment
 
-
+xxx
 
 ## Taxonomic classification
 
-
+xxx
 
 
 
