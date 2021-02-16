@@ -1,1 +1,2 @@
-# 2021EB_eDNA_practice
+# 2021 E&B Practical Class on eDNA
+## 
